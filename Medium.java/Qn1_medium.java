@@ -1,3 +1,6 @@
+//Create a Book class with attributes: title, author, ISBN. In the main() method, create 5 different Book objects manually and display their details using a method showDetails().
+
+
 class Book{  
     String title;
     int ISBN;
