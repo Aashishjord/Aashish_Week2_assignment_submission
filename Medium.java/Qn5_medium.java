@@ -1,3 +1,6 @@
+//Create a Movie class with attributes: name, language, rating (out of 5). Create a method displayMovieDetails(). In main(), create 4 Movie objects and call displayMovieDetails().
+
+
 class Movie {
     String name;
     String language;
