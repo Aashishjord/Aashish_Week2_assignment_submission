@@ -1,3 +1,4 @@
+//declare the string int and double and show the output
 public class Qn1_simple {
     public static void main(String[] args) {
         int age=18;
