@@ -1,3 +1,10 @@
+//Employee Bonus Calculation Create a class Employee with name, salary, and yearsOfExperience. Write a method calculateBonus():
+
+//If experience > 5 years, bonus = 20% of salary
+
+//Otherwise, bonus = 10% of salary Display the bonus amount for each employee.
+
+
 import java.util.Scanner;
 class Employee {
     String name;
