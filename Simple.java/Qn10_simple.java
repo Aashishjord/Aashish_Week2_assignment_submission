@@ -1,4 +1,4 @@
-
+//Create Multiple Objects Create a class Car with attributes brand and year. Create two Car objects in the main method and display their details.
 class Car {
     String brand;
     int year;
