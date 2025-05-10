@@ -1,3 +1,4 @@
+//Create a Circle class with an attribute radius. Use a final constant PI = 3.14159. Write a method calculateCircumference() and calculateArea() using PI. Create two Circle objects and display their area and circumference.
 class Circle {
     double radius;
     final double PI = 3.14159;
