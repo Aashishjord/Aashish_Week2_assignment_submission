@@ -1,3 +1,4 @@
+//Write a Java program that asks the user to enter two numbers and an operator (+, -, *, /) and then calculates the result based on the operator using if-else statements.
 import java.util.Scanner;
 public class Qn8_simple {
     public static void main(String[] args) {
