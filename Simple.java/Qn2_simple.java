@@ -1,3 +1,4 @@
+//Java program that declares two integers and prints their sum, difference, product, and quotient.
 public class Qn2_simple {
     public static void main(String[] args){
         int a=5;
