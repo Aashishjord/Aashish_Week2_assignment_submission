@@ -1,3 +1,6 @@
+//Write a Java program that takes a number and prints whether the number is positive, negative, or zero.
+
+
 import java.util.Scanner;
 public class Qn9_simple {
     public static void main(String[] args) {
