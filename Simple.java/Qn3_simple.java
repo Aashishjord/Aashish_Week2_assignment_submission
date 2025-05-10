@@ -1,3 +1,4 @@
+//Java program that checks if a number (taken as input) is even or odd using an if-else statement.
 import java.util.Scanner;
 public class Qn3_simple {
 public static void main(String[] args) {
