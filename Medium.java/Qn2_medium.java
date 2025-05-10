@@ -1,3 +1,4 @@
+//Create a class BankAccount with attributes accountHolderName, accountNumber, and balance. Create a constructor to initialize them. Create methods deposit(amount) and withdraw(amount) which modify the balance. Show messages if withdrawal amount exceeds balance.
 class BankAccount {
     String accountHolderName;
     String accountNumber;
