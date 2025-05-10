@@ -1,3 +1,4 @@
+// Create a class Product with productName, price, and discountPercentage. Write a method calculateFinalPrice() which returns price after discount. Create 3 different products and print their final prices.
 import java.util.Scanner;
 class Product {
     String Productname;
