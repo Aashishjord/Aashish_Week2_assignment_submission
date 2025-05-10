@@ -1,3 +1,4 @@
+//Create a class Book with attributes title and author. Initialize them using a constructor, and print the details using a method showBook().
 class Book {
     String title;
     String author;
