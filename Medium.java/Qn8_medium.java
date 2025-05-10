@@ -1,3 +1,4 @@
+//Create a class Contact with fields: name, phoneNumber, emailAddress. Create 3 Contact objects. Print the contact details only if the emailAddress is not empty (use if condition).
 class Contact {
     String name;
     String phoneNumber;
