@@ -1,3 +1,6 @@
+// Write a Java program that takes two numbers and prints the greater number.
+
+
 import java.util.Scanner;
 public class Qn6_simple {
     public static void main(String[] args) {
