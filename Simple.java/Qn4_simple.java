@@ -1,4 +1,4 @@
-
+//Create a class Student with two attributes: name and age. Create a method displayInfo() that prints the student's name and age. In the main method, create a Student object and call displayInfo().
     class Student{
         String name;
         int age;
