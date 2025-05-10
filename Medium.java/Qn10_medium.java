@@ -1,3 +1,4 @@
+//Create a Car class with attributes: brand, model, price. Create 5 different Car objects with different details. Display the cars whose price is greater than 20,00,000 (use if statement).
 class Model {
     String modelName;    //This Question was done as instructed by the teacher using array
     double version;
