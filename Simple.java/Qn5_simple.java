@@ -1,3 +1,4 @@
+// Java program to check if a person is eligible to vote. (The person must be 18 or older and a citizen.)
 import java.util.Scanner;
 
 public class Qn5_simple {
