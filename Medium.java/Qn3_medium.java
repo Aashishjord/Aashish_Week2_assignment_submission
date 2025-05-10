@@ -1,4 +1,4 @@
-
+//Create a Student class with name and marks. Write a method calculateGrade() that assigns a grade (A, B, C, D, F) based on marks using a switch or if-else ladder. Create 3 students and display their grades.
 class Student {
     String name;
     int marks;
