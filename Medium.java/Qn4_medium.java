@@ -1,4 +1,4 @@
-
+//Rectangle and Area Calculation Create a class Rectangle with length and width. Initialize using a constructor. Create a method calculateArea() that returns the area. Create 3 rectangles of different dimensions and display their areas.
 class Rectangle {
     double length;
     double width;
